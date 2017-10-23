@@ -1,0 +1,34 @@
+double rElem( planet BD[] ){
+
+  int i,j;
+  double rad;
+  double rho = 20;
+  int other;
+  pln *otherPln;
+  int regionIndex;
+  region regionOfInterest;
+  int neighbors[26];//there are 3^3 regions in a 3x3 cube, -1 for the center
+
+  for( i=0; i<N; i++ ){
+    for( j=i+1; j<N; j++ ){
+      rad = radius(BD[i].pos,BD[j].pos);
+      
+      if( rad < 0.8*(BD[i].r+BD[j].r) ){
+	
+	BD[i].pos = (BD[i].m*BD[i].pos + BD[j].m*BD[j].pos)/(BD[i].m + BD[j].m);//find new properties 
+	BD[i].vel = (BD[i].m*BD[i].vel + BD[j].m*BD[j].vel)/(BD[i].m + BD[j].m);
+	BD[i].m   = (BD[i].m + BD[j].m);
+	BD[i].r   = pow( BD[i].m/rho, 1.0/3 );
+	
+	BD[j].pos = BD[N-1].pos;//move information
+	BD[j].vel = BD[N-1].vel;
+	BD[j].m   = BD[N-1].m;
+	BD[j].r   = BD[N-1].r;
+	
+	N--;
+	a++;
+      }
+    }
+  }
+}
+  

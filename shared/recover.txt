@@ -1,0 +1,2 @@
+g++ recover.c -lm -o recover
+./recover 1000 1e-3 5 1 500

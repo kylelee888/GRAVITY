@@ -1,0 +1,6 @@
+Tasks 3/1
+ - Write region struct
+	Whaddoes it need??
+ - Test functions for checking other functions
+
+

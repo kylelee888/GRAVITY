@@ -1,0 +1,9 @@
+double r_step1(planet BD[]);
+double v_step1(planet BD[]);
+double r_step2(planet BD[]);
+double v_step2(planet BD[]);
+double r_step3(planet BD[]);
+double v_step3(planet BD[]);
+double r_step4(planet BD[]);
+double v_stepf(planet BD[]);
+double r_stepf(planet BD[]);

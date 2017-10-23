@@ -1,0 +1,66 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include "vector.h"
+#include "planet.h"
+
+#define THETA 1.35120719195966
+
+vector posHalfStep( planet BD[] ){
+  
+  int i;
+  
+  for( i=0; i<N; i++ ){
+    BD[i].pos = BD[i].pos + BD[i].vel*dt/2;
+  }
+}
+
+//=======================
+vector velFullStep( planet BD[] ){
+  
+  int i;
+  
+  for( i=0; i<N; i++ ){
+    BD[i].vel = BD[i].vel + BD[i].acc*dt;
+  }
+}
+
+//=======================
+vector pos4_FWD( planet BD[] ){
+  
+  int i;
+
+  for( i=0; i<N; i++ ){
+    BD[i].pos = BD[i].pos + THETA*BD[i].vel*dt/2;
+  }
+}
+
+//=======================
+vector pos4_BCK( planet BD[] ){
+
+  int i;
+
+  for( i=0; i<N; i++ ){
+    BD[i].pos = BD[i].pos + (1-THETA)*BD[i].vel*dt/2;
+  }
+}
+
+//=======================
+vector vel4_FWD( planet BD[] ){
+
+  int i;
+
+  for( i=0; i<N; i++ ){
+    BD[i].vel = BD[i].vel + THETA*BD[i].acc*dt;
+  }
+}
+
+//=======================
+vector vel4_BCK( planet BD[] ){
+
+  int i;
+
+  for( i=0; i<N; i++ ){
+    BD[i].vel = BD[i].vel + (1-2*THETA)*BD[i].acc*dt;
+  }
+}

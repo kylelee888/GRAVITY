@@ -1,0 +1,42 @@
+// code by Patrick, blame him for bugs -WF
+#include <math.h>
+#include "vector.h"
+#include "planet.h"
+#include "pln.h"
+#include "region.h"
+#include <stdio.h>
+
+/*
+Notes: could scale (aka multiply) alpha by some factor of how concentrated the center of mass is?
+	-> Do this via comparing separations of CoM and the CoM's of each child region?
+*/
+
+extern double L;
+extern double alpha2;
+
+int wellSepCoM(planet currPlanet, region tempReg)
+{
+  double beta,beta2;
+  int l = tempReg.level;
+  vector tempCoM=tempReg.com;
+  beta = L/pow(2,l);//length assumed to be global variable, length of one side of full space
+  //beta is the width of a region for a given level
+  beta2 = beta*beta;//Use beta^2 for cheaper math
+  //alpha = 2; alpha2 = alpha*alpha;
+  //alpha2 = 4;//This factor determines "how many beta's" a region's center of mass needs to be from the planet we're concerned with in order to be considered well-separated. In this case, > 2 betas is well separated.
+  //	printf("!Determining whether a planet at (%.2f,%.2f,%.2f) is distant from a region at (%.2f,%.2f,%.2f) with length %f : ",currPlanet.pos.x,currPlanet.pos.y,
+  //              currPlanet.pos.z,tempCoM.x,tempCoM.y,tempCoM.z,beta);
+  
+  vector sep = currPlanet.pos - tempCoM;
+  //printf("!sep = %f\n",sep*sep);
+  if( sep*sep/beta2 > alpha2)
+    {
+      //               printf(" ... yes\n");
+      return(1);
+    }
+  else
+    {
+      //             printf(" ... no\n");
+      return(0);
+    }
+}

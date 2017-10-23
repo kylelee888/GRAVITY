@@ -1,0 +1,40 @@
+#include "pln.h"
+#include "planet.h"
+#include <stdlib.h>
+
+pln *plnList[8+64+512+4096];//Does not include an index for the planets in level 0
+
+void add(int num, pln **list)
+{
+	pln *newPln;//"Make a pointer to a pln, call it 'newPln'"
+	newPln=(pln *)malloc(sizeof(pln));//"Allocate a pln's worth of memory to the space pointed to by 'new'"
+	newPln->plnNum = num;//Follow 'new' to the pln it points to, set plnNum of that pln to the value num
+	newPln->next = *list;//Follow 'new' to the pln it points to, set next of that pln to pointer to the beginning of the old list
+	*list = newPln;//Set the pointer to the beginning of the list to the pointer 'new'
+}
+
+void clearList(pln **list)
+{
+	pln *curr = *list;
+	pln *next;
+	while(curr!=NULL)
+	{
+		next = curr->next;
+		free(curr);
+		curr = next;
+	}
+}
+
+void popLists(planet BD[])
+{
+	
+ // FIXME: Patrick still revising this
+	int i;
+	for(i=0; i<N; i++)
+	{
+		
+	}
+
+
+
+}

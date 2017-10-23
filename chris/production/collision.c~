@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <math.h>
+#include "planet.h"
+ 
+
+void collision(planet BD[], int i, int j){
+
+//getting passed the ideces of planets colliding
+vcm = (BD[i].vel*BD[i].m + BD[j].vel*BD[j].m);
+
+
+}

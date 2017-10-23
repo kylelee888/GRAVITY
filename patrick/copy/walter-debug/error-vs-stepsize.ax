@@ -1,0 +1,461 @@
+!Number of planets: 100
+!Frameskip is 10
+!Total # of indeces in region array: 4681
+!Finished initializing planet locations
+!The center of mass is (5.079005,5.106504,4.437465)
+!Pi = 0.000000, Ei = -14.140022
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.740564e+01
+Distance moved after large step    : 9.481090e+02
+fractional error 5.150660e-02, total runtime 1.000000e-01, distance moved 9.481090e+02
+AXIS 1.000000e-01 5.150660e-02
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.372294e+01
+Distance moved after large step    : 9.469512e+02
+fractional error 1.508442e-02, total runtime 7.943282e-02, distance moved 9.469512e+02
+AXIS 7.943282e-02 1.508442e-02
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.085488e+01
+Distance moved after large step    : 9.460438e+02
+fractional error 5.008900e-03, total runtime 6.309573e-02, distance moved 9.460438e+02
+AXIS 6.309573e-02 5.008900e-03
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 8.600993e+00
+Distance moved after large step    : 9.453300e+02
+fractional error 1.785733e-03, total runtime 5.011872e-02, distance moved 9.453300e+02
+AXIS 5.011872e-02 1.785733e-03
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 6.821742e+00
+Distance moved after large step    : 9.447672e+02
+fractional error 6.640784e-04, total runtime 3.981072e-02, distance moved 9.447672e+02
+AXIS 3.981072e-02 6.640784e-04
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 5.413683e+00
+Distance moved after large step    : 9.443227e+02
+fractional error 2.533875e-04, total runtime 3.162278e-02, distance moved 9.443227e+02
+AXIS 3.162278e-02 2.533875e-04
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 4.297763e+00
+Distance moved after large step    : 9.439712e+02
+fractional error 9.823050e-05, total runtime 2.511886e-02, distance moved 9.439712e+02
+AXIS 2.511886e-02 9.823050e-05
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 3.412605e+00
+Distance moved after large step    : 9.436930e+02
+fractional error 3.845933e-05, total runtime 1.995262e-02, distance moved 9.436930e+02
+AXIS 1.995262e-02 3.845933e-05
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.710116e+00
+Distance moved after large step    : 9.434726e+02
+fractional error 1.515112e-05, total runtime 1.584893e-02, distance moved 9.434726e+02
+AXIS 1.584893e-02 1.515112e-05
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.152416e+00
+Distance moved after large step    : 9.432979e+02
+fractional error 5.992046e-06, total runtime 1.258925e-02, distance moved 9.432979e+02
+AXIS 1.258925e-02 5.992046e-06
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.709571e+00
+Distance moved after large step    : 9.431593e+02
+fractional error 2.375562e-06, total runtime 1.000000e-02, distance moved 9.431593e+02
+AXIS 1.000000e-02 2.375562e-06
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.357884e+00
+Distance moved after large step    : 9.430494e+02
+fractional error 9.432488e-07, total runtime 7.943282e-03, distance moved 9.430494e+02
+AXIS 7.943282e-03 9.432488e-07
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.078568e+00
+Distance moved after large step    : 9.429622e+02
+fractional error 3.748937e-07, total runtime 6.309573e-03, distance moved 9.429622e+02
+AXIS 6.309573e-03 3.748937e-07
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 8.567174e-01
+Distance moved after large step    : 9.428930e+02
+fractional error 1.490927e-07, total runtime 5.011872e-03, distance moved 9.428930e+02
+AXIS 5.011872e-03 1.490927e-07
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 6.805052e-01
+Distance moved after large step    : 9.428381e+02
+fractional error 5.931446e-08, total runtime 3.981072e-03, distance moved 9.428381e+02
+AXIS 3.981072e-03 5.931446e-08
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 5.405397e-01
+Distance moved after large step    : 9.427945e+02
+fractional error 2.360333e-08, total runtime 3.162278e-03, distance moved 9.427945e+02
+AXIS 3.162278e-03 2.360333e-08
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 4.293635e-01
+Distance moved after large step    : 9.427598e+02
+fractional error 9.393847e-09, total runtime 2.511886e-03, distance moved 9.427598e+02
+AXIS 2.511886e-03 9.393847e-09
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 3.410544e-01
+Distance moved after large step    : 9.427323e+02
+fractional error 3.740231e-09, total runtime 1.995262e-03, distance moved 9.427323e+02
+AXIS 1.995262e-03 3.740231e-09
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.709085e-01
+Distance moved after large step    : 9.427105e+02
+fractional error 1.487222e-09, total runtime 1.584893e-03, distance moved 9.427105e+02
+AXIS 1.584893e-03 1.487222e-09
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.151900e-01
+Distance moved after large step    : 9.426932e+02
+fractional error 5.929180e-10, total runtime 1.258925e-03, distance moved 9.426932e+02
+AXIS 1.258925e-03 5.929180e-10
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.709313e-01
+Distance moved after large step    : 9.426794e+02
+fractional error 2.356635e-10, total runtime 1.000000e-03, distance moved 9.426794e+02
+AXIS 1.000000e-03 2.356635e-10
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.357755e-01
+Distance moved after large step    : 9.426684e+02
+fractional error 9.335191e-11, total runtime 7.943282e-04, distance moved 9.426684e+02
+AXIS 7.943282e-04 9.335191e-11
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.078503e-01
+Distance moved after large step    : 9.426598e+02
+fractional error 3.699502e-11, total runtime 6.309573e-04, distance moved 9.426598e+02
+AXIS 6.309573e-04 3.699502e-11
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 8.566849e-02
+Distance moved after large step    : 9.426529e+02
+fractional error 1.601515e-11, total runtime 5.011872e-04, distance moved 9.426529e+02
+AXIS 5.011872e-04 1.601515e-11
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 6.804889e-02
+Distance moved after large step    : 9.426474e+02
+fractional error 7.025990e-12, total runtime 3.981072e-04, distance moved 9.426474e+02
+AXIS 3.981072e-04 7.025990e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 5.405315e-02
+Distance moved after large step    : 9.426430e+02
+fractional error 3.604597e-12, total runtime 3.162278e-04, distance moved 9.426430e+02
+AXIS 3.162278e-04 3.604597e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 4.293594e-02
+Distance moved after large step    : 9.426396e+02
+fractional error 1.531836e-12, total runtime 2.511886e-04, distance moved 9.426396e+02
+AXIS 2.511886e-04 1.531836e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 3.410523e-02
+Distance moved after large step    : 9.426368e+02
+fractional error 1.408335e-12, total runtime 1.995262e-04, distance moved 9.426368e+02
+AXIS 1.995262e-04 1.408335e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.709075e-02
+Distance moved after large step    : 9.426346e+02
+fractional error 1.578176e-12, total runtime 1.584893e-04, distance moved 9.426346e+02
+AXIS 1.584893e-04 1.578176e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.151895e-02
+Distance moved after large step    : 9.426329e+02
+fractional error 1.663710e-12, total runtime 1.258925e-04, distance moved 9.426329e+02
+AXIS 1.258925e-04 1.663710e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.709311e-02
+Distance moved after large step    : 9.426315e+02
+fractional error 1.901874e-12, total runtime 1.000000e-04, distance moved 9.426315e+02
+AXIS 1.000000e-04 1.901874e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.357754e-02
+Distance moved after large step    : 9.426304e+02
+fractional error 1.972853e-12, total runtime 7.943282e-05, distance moved 9.426304e+02
+AXIS 7.943282e-05 1.972853e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.078502e-02
+Distance moved after large step    : 9.426296e+02
+fractional error 2.635447e-12, total runtime 6.309573e-05, distance moved 9.426296e+02
+AXIS 6.309573e-05 2.635447e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 8.566846e-03
+Distance moved after large step    : 9.426289e+02
+fractional error 1.467265e-12, total runtime 5.011872e-05, distance moved 9.426289e+02
+AXIS 5.011872e-05 1.467265e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 6.804888e-03
+Distance moved after large step    : 9.426283e+02
+fractional error 2.187119e-12, total runtime 3.981072e-05, distance moved 9.426283e+02
+AXIS 3.981072e-05 2.187119e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 5.405315e-03
+Distance moved after large step    : 9.426279e+02
+fractional error 2.461099e-12, total runtime 3.162278e-05, distance moved 9.426279e+02
+AXIS 3.162278e-05 2.461099e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 4.293594e-03
+Distance moved after large step    : 9.426275e+02
+fractional error 1.488056e-12, total runtime 2.511886e-05, distance moved 9.426275e+02
+AXIS 2.511886e-05 1.488056e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 3.410523e-03
+Distance moved after large step    : 9.426273e+02
+fractional error 1.635299e-12, total runtime 1.995262e-05, distance moved 9.426273e+02
+AXIS 1.995262e-05 1.635299e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.709075e-03
+Distance moved after large step    : 9.426271e+02
+fractional error 2.212505e-12, total runtime 1.584893e-05, distance moved 9.426271e+02
+AXIS 1.584893e-05 2.212505e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.151894e-03
+Distance moved after large step    : 9.426269e+02
+fractional error 1.658064e-12, total runtime 1.258925e-05, distance moved 9.426269e+02
+AXIS 1.258925e-05 1.658064e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.709311e-03
+Distance moved after large step    : 9.426267e+02
+fractional error 1.114896e-12, total runtime 1.000000e-05, distance moved 9.426267e+02
+AXIS 1.000000e-05 1.114896e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.357754e-03
+Distance moved after large step    : 9.426266e+02
+fractional error 1.168715e-12, total runtime 7.943282e-06, distance moved 9.426266e+02
+AXIS 7.943282e-06 1.168715e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.078502e-03
+Distance moved after large step    : 9.426265e+02
+fractional error 1.417388e-12, total runtime 6.309573e-06, distance moved 9.426265e+02
+AXIS 6.309573e-06 1.417388e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 8.566846e-04
+Distance moved after large step    : 9.426265e+02
+fractional error 1.158944e-12, total runtime 5.011872e-06, distance moved 9.426265e+02
+AXIS 5.011872e-06 1.158944e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 6.804888e-04
+Distance moved after large step    : 9.426264e+02
+fractional error 1.545600e-12, total runtime 3.981072e-06, distance moved 9.426264e+02
+AXIS 3.981072e-06 1.545600e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 5.405315e-04
+Distance moved after large step    : 9.426264e+02
+fractional error 1.313054e-12, total runtime 3.162278e-06, distance moved 9.426264e+02
+AXIS 3.162278e-06 1.313054e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 4.293594e-04
+Distance moved after large step    : 9.426263e+02
+fractional error 1.445276e-12, total runtime 2.511886e-06, distance moved 9.426263e+02
+AXIS 2.511886e-06 1.445276e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 3.410523e-04
+Distance moved after large step    : 9.426263e+02
+fractional error 1.533274e-12, total runtime 1.995262e-06, distance moved 9.426263e+02
+AXIS 1.995262e-06 1.533274e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.709075e-04
+Distance moved after large step    : 9.426263e+02
+fractional error 2.270439e-12, total runtime 1.584893e-06, distance moved 9.426263e+02
+AXIS 1.584893e-06 2.270439e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.151894e-04
+Distance moved after large step    : 9.426263e+02
+fractional error 2.510850e-12, total runtime 1.258925e-06, distance moved 9.426263e+02
+AXIS 1.258925e-06 2.510850e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.709311e-04
+Distance moved after large step    : 9.426263e+02
+fractional error 3.872943e-12, total runtime 1.000000e-06, distance moved 9.426263e+02
+AXIS 1.000000e-06 3.872943e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.357754e-04
+Distance moved after large step    : 9.426263e+02
+fractional error 3.806208e-12, total runtime 7.943282e-07, distance moved 9.426263e+02
+AXIS 7.943282e-07 3.806208e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.078502e-04
+Distance moved after large step    : 9.426262e+02
+fractional error 4.379980e-12, total runtime 6.309573e-07, distance moved 9.426262e+02
+AXIS 6.309573e-07 4.379980e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 8.566846e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 4.445425e-12, total runtime 5.011872e-07, distance moved 9.426262e+02
+AXIS 5.011872e-07 4.445425e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 6.804888e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 2.359932e-12, total runtime 3.981072e-07, distance moved 9.426262e+02
+AXIS 3.981072e-07 2.359932e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 5.405315e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 5.336956e-12, total runtime 3.162278e-07, distance moved 9.426262e+02
+AXIS 3.162278e-07 5.336956e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 4.293594e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 5.416693e-12, total runtime 2.511886e-07, distance moved 9.426262e+02
+AXIS 2.511886e-07 5.416693e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 3.410523e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 4.832655e-12, total runtime 1.995262e-07, distance moved 9.426262e+02
+AXIS 1.995262e-07 4.832655e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.709075e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 4.803424e-12, total runtime 1.584893e-07, distance moved 9.426262e+02
+AXIS 1.584893e-07 4.803424e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.151894e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 3.774906e-12, total runtime 1.258925e-07, distance moved 9.426262e+02
+AXIS 1.258925e-07 3.774906e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.709311e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 2.541152e-12, total runtime 1.000000e-07, distance moved 9.426262e+02
+AXIS 1.000000e-07 2.541152e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.357754e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 1.967850e-12, total runtime 7.943282e-08, distance moved 9.426262e+02
+AXIS 7.943282e-08 1.967850e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.078502e-05
+Distance moved after large step    : 9.426262e+02
+fractional error 1.496626e-12, total runtime 6.309573e-08, distance moved 9.426262e+02
+AXIS 6.309573e-08 1.496626e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 8.566846e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 1.170686e-12, total runtime 5.011872e-08, distance moved 9.426262e+02
+AXIS 5.011872e-08 1.170686e-12
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 6.804888e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 9.044882e-13, total runtime 3.981072e-08, distance moved 9.426262e+02
+AXIS 3.981072e-08 9.044882e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 5.405315e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 6.414083e-13, total runtime 3.162278e-08, distance moved 9.426262e+02
+AXIS 3.162278e-08 6.414083e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 4.293594e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 7.113851e-13, total runtime 2.511886e-08, distance moved 9.426262e+02
+AXIS 2.511886e-08 7.113851e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 3.410523e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 6.389607e-13, total runtime 1.995262e-08, distance moved 9.426262e+02
+AXIS 1.995262e-08 6.389607e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.709075e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 6.337671e-13, total runtime 1.584893e-08, distance moved 9.426262e+02
+AXIS 1.584893e-08 6.337671e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.151894e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 5.766142e-13, total runtime 1.258925e-08, distance moved 9.426262e+02
+AXIS 1.258925e-08 5.766142e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.709311e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 5.777380e-13, total runtime 1.000000e-08, distance moved 9.426262e+02
+AXIS 1.000000e-08 5.777380e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.357754e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 5.732193e-13, total runtime 7.943282e-09, distance moved 9.426262e+02
+AXIS 7.943282e-09 5.732193e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.078502e-06
+Distance moved after large step    : 9.426262e+02
+fractional error 5.477675e-13, total runtime 6.309573e-09, distance moved 9.426262e+02
+AXIS 6.309573e-09 5.477675e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 8.566846e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 6.396399e-13, total runtime 5.011872e-09, distance moved 9.426262e+02
+AXIS 5.011872e-09 6.396399e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 6.804888e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 6.224150e-13, total runtime 3.981072e-09, distance moved 9.426262e+02
+AXIS 3.981072e-09 6.224150e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 5.405315e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 5.840129e-13, total runtime 3.162278e-09, distance moved 9.426262e+02
+AXIS 3.162278e-09 5.840129e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 4.293594e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 5.622730e-13, total runtime 2.511886e-09, distance moved 9.426262e+02
+AXIS 2.511886e-09 5.622730e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 3.410523e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 6.255982e-13, total runtime 1.995262e-09, distance moved 9.426262e+02
+AXIS 1.995262e-09 6.255982e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.709075e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 5.544329e-13, total runtime 1.584893e-09, distance moved 9.426262e+02
+AXIS 1.584893e-09 5.544329e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.151894e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 5.688475e-13, total runtime 1.258925e-09, distance moved 9.426262e+02
+AXIS 1.258925e-09 5.688475e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.709311e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 5.845816e-13, total runtime 1.000000e-09, distance moved 9.426262e+02
+AXIS 1.000000e-09 5.845816e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.357754e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 6.014139e-13, total runtime 7.943282e-10, distance moved 9.426262e+02
+AXIS 7.943282e-10 6.014139e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.078502e-07
+Distance moved after large step    : 9.426262e+02
+fractional error 6.136717e-13, total runtime 6.309573e-10, distance moved 9.426262e+02
+AXIS 6.309573e-10 6.136717e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 8.566846e-08
+Distance moved after large step    : 9.426262e+02
+fractional error 5.887162e-13, total runtime 5.011872e-10, distance moved 9.426262e+02
+AXIS 5.011872e-10 5.887162e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 6.804888e-08
+Distance moved after large step    : 9.426262e+02
+fractional error 5.815519e-13, total runtime 3.981072e-10, distance moved 9.426262e+02
+AXIS 3.981072e-10 5.815519e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 5.405315e-08
+Distance moved after large step    : 9.426262e+02
+fractional error 5.852430e-13, total runtime 3.162278e-10, distance moved 9.426262e+02
+AXIS 3.162278e-10 5.852430e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 4.293594e-08
+Distance moved after large step    : 9.426262e+02
+fractional error 6.114088e-13, total runtime 2.511886e-10, distance moved 9.426262e+02
+AXIS 2.511886e-10 6.114088e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 3.410523e-08
+Distance moved after large step    : 9.426262e+02
+fractional error 5.319712e-13, total runtime 1.995262e-10, distance moved 9.426262e+02
+AXIS 1.995262e-10 5.319712e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.709075e-08
+Distance moved after large step    : 9.426262e+02
+fractional error 5.319852e-13, total runtime 1.584893e-10, distance moved 9.426262e+02
+AXIS 1.584893e-10 5.319852e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 2.151894e-08
+Distance moved after large step    : 9.426262e+02
+fractional error 6.009749e-13, total runtime 1.258925e-10, distance moved 9.426262e+02
+AXIS 1.258925e-10 6.009749e-13
+Initial distance moved (should be 0): 0.000000e+00
+Distance moved after exact         : 1.709311e-08
+Distance moved after large step    : 9.426262e+02
+fractional error 6.673957e-13, total runtime 1.000000e-10, distance moved 9.426262e+02
+AXIS 1.000000e-10 6.673957e-13

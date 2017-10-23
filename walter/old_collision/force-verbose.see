@@ -1,0 +1,122 @@
+/**********************************************
+  The force is what gives a jedi his power.  It's an energy field created by all living things.  It surrounds us and penetrates us.  It binds the galaxy together.  Except that Meghan woman, she's a butt.
+ **********************************************/
+
+// Aaron is a poopy-head. --WF
+//He's referring to you, Aaron Buttchins
+//Shut up Megbutt
+
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include "vector.h"
+#include "planet.h"
+#include "pln.h"
+#include "region.h"
+#include "intVec.h"
+#include "wellSepCoM.h"
+#include "displist.h"
+extern double G;
+extern int exact;
+extern int approx;
+extern double alpha2;
+int DEBUG;
+extern int LVL;
+/**********************************************
+  Finds net force on planet "myplanet" from region "regionToTest"
+ **********************************************/
+
+void space(int n)
+{
+  for (int i=0;i<=n;i++) if (DEBUG)printf("%d%d%d ",i,i,i);
+}
+
+void dash(int n)
+{
+  for (int i=0;i<n;i++) if (DEBUG)printf("--- ");
+}
+
+void forceMagic(region regionToTest, planet& myplanet, planet *BD, int pnum){
+  if (pnum==0) DEBUG=1; else DEBUG=0;
+  //assuming implementation in recover.c, N is number of planets
+  int i,j,k,a;
+  double rad;
+  vector F;
+  intVec my, other;
+  pln *currPln;
+  planet current;
+  int lev=regionToTest.level;
+
+  if (DEBUG)
+  {
+  space(lev);
+  printf("BEGIN computing force on planet at (%.3f, %.3f, %.3f) from region %d:%d,%d,%d containing %d planets with alpha2=%.1e:\n",myplanet.pos.x,myplanet.pos.y,myplanet.pos.z,regionToTest.level,regionToTest.i,regionToTest.j,regionToTest.k,regionToTest.numPln,alpha2);
+  }
+  if(regionToTest.level == LVL-1 || (regionToTest.numPln==1))
+  {
+    currPln=regionToTest.planets;
+    space(lev); if (pnum==0)printf("exactly, by iterating over planets.\n");
+    while (currPln != NULL)
+    {
+//      space(lev); if (pnum==0){printf("Remaining list of planets in this region: "); displist(currPln);}
+      current=BD[currPln->plnNum];
+      rad = radius(myplanet.pos,current.pos);
+      if (rad > 0) // very crude check to make sure it's not the same planet pulling on itself
+      {
+        F = (current.pos-myplanet.pos) * G * myplanet.m * BD[currPln->plnNum].m / (rad*rad*rad) ;//Direct force calculation
+        myplanet.acc = myplanet.acc + F/myplanet.m;
+        space(lev); if (pnum==0)printf("Exact force from planet %d at r=(%.2e, %.2e, %.2e) on me at r=(%.2e, %.2e, %.2e) : acc is now = (%.2e, %.2e, %.2e)\n", currPln->plnNum, 
+            current.pos.x, current.pos.y, current.pos.z,
+          myplanet.pos.x, myplanet.pos.y, myplanet.pos.z,
+          myplanet.acc.x, myplanet.acc.y, myplanet.acc.z);
+          exact++;
+      }
+      else
+      {
+        space(lev); if (pnum==0)printf("This is myself, skipping\n");
+      }
+      currPln=currPln->nextPln;
+   }
+  }
+
+  else
+  {
+    //		intVec my = getIJKVec(n, myplanet.pos);  //intVec to store coordinates of region containing myplanet
+
+    k = wellSepCoM(myplanet,regionToTest);
+    if (k==1)
+    {
+      space(lev); if (pnum==0)printf("region is well-separated, computing force via multipole\n");
+      rad = radius(myplanet.pos,regionToTest.com);
+      vector Fhere;
+      Fhere = G * myplanet.m * regionToTest.mass * (regionToTest.com-myplanet.pos) / (rad*rad*rad);
+      if (pnum==0) printf("Region has center (%.2f, %.2f, %.2f) and mass %.2f\n",regionToTest.com.x, regionToTest.com.y, regionToTest.com.z, regionToTest.mass);
+      myplanet.acc = myplanet.acc + Fhere/myplanet.m;
+      approx++;
+      space(lev); if (pnum==0)printf("   --> Force from multipole is (%.2e, %.2e, %.2e), mass is %.2e, acceleration is now (%.2e, %.2e, %.2e)\n",
+                    Fhere.x, Fhere.y, Fhere.z, myplanet.m,
+                    myplanet.acc.x, myplanet.acc.y, myplanet.acc.z);
+    }
+
+    if (k==0) 
+    {
+      space(lev); if (pnum==0)printf("region is not well-separated, descending to children\n");
+      for(int l=0;l<8;l++) 
+      {
+	if(regions[regionToTest.kids[l]].numPln == 0)
+	{
+//          space(lev); printf("child %d is region %d, containing %d planets: empty\n",l,regionToTest.kids[l],regions[regionToTest.kids[l]].numPln);
+	  continue;
+	}
+	else
+        {
+          space(lev); if (pnum==0)printf("child %d is region %d, containing %d planets: recursing\n",l,regionToTest.kids[l],regions[regionToTest.kids[l]].numPln);
+	  forceMagic(regions[regionToTest.kids[l]],myplanet,BD,pnum);
+        }
+      }
+    }
+  }
+  if (pnum==0) {
+  space(lev);printf("END   force on planet from region %d:%d,%d,%d containing %d planets \n",regionToTest.level,regionToTest.i,regionToTest.j,regionToTest.k,regionToTest.numPln);
+  }
+}	

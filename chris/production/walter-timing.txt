@@ -1,0 +1,34 @@
+Note: this is for one force evaluation, not one Omelyan step!
+
+!Total # of indeces in region array: 2396745
+Starting tree-builder, level 0... done in 4 μs
+Starting tree-builder, level 1... done in 13 μs
+Starting tree-builder, level 2... done in 273 μs
+Starting tree-builder, level 3... done in 3431 μs
+Starting tree-builder, level 4... done in 32496 μs
+Starting tree-builder, level 5... done in 124293 μs
+Starting tree-builder, level 6... done in 1197398 μs
+Starting tree-builder, level 7... done in 11321755 μs
+!Starting initial conditions...
+!Initial conditions done in 2107227 μs
+Forces for alpha = 0.00: 13113318 us (exact / approx evaluations: 99990000 / 0) [naive method]
+
+Forces for alpha = 1.00: 452395 us (exact / approx evaluations: 346877 / 1385416)
+Forces for alpha = 1.20: 446041 us (exact / approx evaluations: 346877 / 1385416)
+Forces for alpha = 1.44: 730262 us (exact / approx evaluations: 613971 / 2194418)
+Forces for alpha = 1.73: 724143 us (exact / approx evaluations: 613971 / 2194418)
+Forces for alpha = 2.07: 1302533 us (exact / approx evaluations: 1243138 / 3648535)
+Forces for alpha = 2.49: 1919983 us (exact / approx evaluations: 1967144 / 5087142)
+Forces for alpha = 2.99: 2516492 us (exact / approx evaluations: 2744970 / 6427814)
+Forces for alpha = 3.58: 3719913 us (exact / approx evaluations: 4432881 / 8931104)
+Forces for alpha = 4.30: 5980674 us (exact / approx evaluations: 7131360 / 11859425)
+Forces for alpha = 5.16: 7709557 us (exact / approx evaluations: 10858985 / 14831758)
+Forces for alpha = 6.19: 10381199 us (exact / approx evaluations: 16441464 / 18231708)
+Forces for alpha = 7.43: 14238069 us (exact / approx evaluations: 23899187 / 21098474)
+Forces for alpha = 8.92: 18388207 us (exact / approx evaluations: 33042535 / 21565854)
+Forces for alpha = 10.70: 23838332 us (exact / approx evaluations: 44383853 / 19248885)
+Forces for alpha = 12.84: 30921720 us (exact / approx evaluations: 57864186 / 15584412)
+Forces for alpha = 15.41: 36342602 us (exact / approx evaluations: 71690252 / 11651438)
+Forces for alpha = 18.49: 41575669 us (exact / approx evaluations: 80872080 / 8717713)
+Forces for alpha = 22.19: 49290722 us (exact / approx evaluations: 86054930 / 6585525)
+Forces for alpha = 26.62: 53381609 us (exact / approx evaluations: 90646329 / 4450487)    <--- about four times slower (tree traversal overhead)

@@ -1,0 +1,1 @@
+double getTotalMass( planet BD[] );

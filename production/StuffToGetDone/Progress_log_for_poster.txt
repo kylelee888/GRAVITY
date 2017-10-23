@@ -1,0 +1,14 @@
+STUF^2 TO GET DONE
+
+Error vs alpha comparison and plots for poster
+Checking neighboring regions for the collision case – Chris
+Math background for poster – Aaron
+error vs time
+error vs planets for fixed box size
+error vs no levels
+A solar system model - Pat
+compare end results of simulations
+
+Possible way to check computer expense:
+Time to run simulation vs time the Newtonian way at a given Tmax
+

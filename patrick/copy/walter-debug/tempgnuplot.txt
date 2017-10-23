@@ -1,0 +1,4 @@
+set xlabel 'Pion Mass Squared'
+set ylabel 'Nucleon Mass'
+set key top left
+plot 'fitData.txt' with lines, 'data.txt'

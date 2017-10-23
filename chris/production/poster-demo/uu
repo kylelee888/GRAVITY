@@ -1,0 +1,51 @@
+void omelyan( planet BD[] ){
+
+  int i;
+  long int force = 0;
+  //need to calc f_apprx and f_exact for all planets
+  
+  
+  r_step1(BD);
+
+  reset_acc(BD);
+  starttimer(2);
+  
+  for( i=0; i<N; i++ ){
+    forceMagic( regions[0], BD[i], BD, alpha );
+  }
+  
+  v_step1(BD);
+
+  r_step2(BD);
+
+  reset_acc(BD);
+  starttimer(2);
+  
+  for( i=0; i<N; i++ ){
+    forceMagic( regions[0], BD[i], BD, alpha );
+  }
+  
+  v_step2(BD);
+
+  r_step3(BD);
+
+  for( i=0; i<N; i++ ){
+      forceMagic( regions[0], BD[i], BD, alpha );
+  }
+  
+  v_step3(BD);
+
+  r_step4(BD);
+
+  reset_acc(BD);
+  collision_check  = 1;
+  collision_number = 0;
+  for( i=0; i<N; i++ ){
+      forceMagic( regions[0], BD[i], BD, alpha );
+  }
+  collision_check = 0;
+  v_stepf(BD);
+
+  r_stepf(BD);
+}
+

@@ -1,0 +1,10 @@
+Chris' presentation:
+
+-- delete objects that escape to cut down on computational work
+-- position after merger post-collision
+-- input: print to stderr so not gobbled up by anim etc.
+-- initial conditions: random part plus spin part
+-- much easier way to do initial condition
+-- collisions: simpler way to modify length of list
+-- collisions: put new planet at COM
+-- COM correction: only do that once (but ejected particles)

@@ -1,0 +1,4 @@
+v_initial      1
+box_width      1
+initCond_width 1
+alpha2         1

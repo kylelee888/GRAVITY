@@ -1,0 +1,1000 @@
+ 1117  vim force.h
+ 1118  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1119  clear
+ 1120  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1121  vim planetListFunctions.c
+ 1122  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1123  ./chrisIScool 100 1e-3 10 1 10 10 | anim
+ 1124  ./chrisIScool 100 1e-3 10 1 10 10 | list
+ 1125  ./chrisIScool 100 1e-3 10 1 10 10 | less
+ 1126  ./chrisIScool 100 1e-3 10 1.1 10 10 | 
+ 1127  ./chrisIScool 100 1e-3 10 1.1 10 10 | less
+ 1128  ./chrisIScool 100 1e-3 10 1.1 10 10 | anim&
+ 1129  ./chrisIScool 100 1e-3 10 1.1 10 10
+ 1130  cd ..
+ 1131  cd patrick/production/
+ 1132  cp ../../meghan/nasty_lil_bugger/* .
+ 1133  ls
+ 1134  clear
+ 1135  ./chrisIScool 100 1e-3 10 1.1 10 10
+ 1136  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1137  ./chrisIScool 100 1e-3 10 1.1 10 10
+ 1138  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1139  ./chrisIScool 100 1e-3 10 1.1 10 10
+ 1140  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1141  ./chrisIScool 100 1e-3 10 1.1 10 10
+ 1142  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1143  ./chrisIScool 100 1e-3 10 1.1 10 10
+ 1144  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1145  ./chrisIScool 100 1e-3 10 1.1 10 10
+ 1146  ./chrisIScool 100 1e-3 10 1.1 10 10 | anim
+ 1147  ls
+ 1148  vim force.c
+ 1149  cd ..
+ 1150  ls
+ 1151  cd ..
+ 1152  cd meghan/
+ 1153  ls
+ 1154  cd nasty_lil_bugger/
+ 1155  ls
+ 1156  vim force.c
+ 1157  vim populateRegions.c
+ 1158  vim wellSepCoM.
+ 1159  vim wellSepCoM.c
+ 1160  vim populateRegions.c
+ 1161  history
+ 1162  vim recover.c
+ 1163  cd ..
+ 1164  cd patrick/production/
+ 1165  ls
+ 1166  clear
+ 1167  vim recover.c
+ 1168  cd Downloads/
+ 1169  ls
+ 1170  cd usr
+ 1171  ls
+ 1172  cd bin
+ 1173  ls
+ 1174  ./skypeforlinux 
+ 1175  cd ..
+ 1176  cd chris/production/
+ 1177  ls
+ 1178  vim recover.c
+ 1179  cd Downloads/
+ 1180  ls
+ 1181  cd usr
+ 1182  cd bin
+ 1183  ls
+ 1184  ./skypeforlinux 
+ 1185  cd ..
+ 1186  cd Dropbox/
+ 1187  cd manybody-research/patrick/
+ 1188  s
+ 1189  ls
+ 1190  vim IFeelADisturbanceInThe.c 
+ 1191  vim planetList.c 
+ 1192  vim wellSepc
+ 1193  vim wellSep.c
+ 1194  vim DoesItBlen.c 
+ 1195  cd ..
+ 1196  cd patrick/
+ 1197  ls
+ 1198  cd pro
+ 1199  cd Dropbox/
+ 1200  ls
+ 1201  cd manybody-research/patrick/production/
+ 1202  ls
+ 1203  vim recover.c
+ 1204  cd Dropbox/manybody-research/
+ 1205  cd chris/
+ 1206  ls
+ 1207  vim production/
+ 1208  cd production/
+ 1209  vim recover.c
+ 1210  vim omelyan.c
+ 1211  cd Downloads/
+ 1212  ls
+ 1213  cd usr/bin/
+ 1214  ls
+ 1215  ./skypeforlinux 
+ 1216  cd Downloads/
+ 1217  ls
+ 1218  cd usr/bin
+ 1219  ls
+ 1220  ./skypeforlinux 
+ 1221  ls
+ 1222  :q
+ 1223  vim recover.c
+ 1224  cd ..
+ 1225  cp production/* ../patrick/production2
+ 1226  cd ../patrick/production2
+ 1227  cd ..
+ 1228  cd ../chris/
+ 1229  ls
+ 1230  cd nasty_lil_bugger
+ 1231  ls
+ 1232  :q
+ 1233  cd ..
+ 1234  cd production/
+ 1235  ls
+ 1236  cd graphs/
+ 1237  ls
+ 1238  graph E_vs_t_alpha2_100_c.txt 
+ 1239  sudo apt install plotutils
+ 1240  graph E_vs_t_alpha2_100_c.txt 
+ 1241  :Q
+ 1242  clear
+ 1243  graph E_vs_t_alpha2_100_c.txt 
+ 1244  :q
+ 1245  clear
+ 1246  ls
+ 1247  graph E_vs_t_alpha2_16.txt
+ 1248  clear
+ 1249  ls
+ 1250  cd ..
+ 1251  s
+ 1252  ls
+ 1253  history
+ 1254  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1255  clear
+ 1256  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c -lm -o chrisIScool 
+ 1257  ls
+ 1258  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o chrisIScool 
+ 1259  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1260  ./run 200 1e-4 100 1 1 1 2
+ 1261  ./run 200 1e-4 100 1 1 1 2 | anim
+ 1262  ./run 50 1e-3 100 1 1 1 2 | anim
+ 1263  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1264  ./run 50 1e-3 100 1 1 1 2 
+ 1265  ./run 50 1e-3 10 1 1 1 2 
+ 1266  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1267  ./run 50 1e-3 100 1 1 1 2 
+ 1268  ls
+ 1269  cd graphs/
+ 1270  ls
+ 1271  graph e_errorVs_alpha.pdf 
+ 1272  clear
+ 1273  graph e_errorVs_alpha.pdf 
+ 1274  clear
+ 1275  ls
+ 1276  graph E_vs_t_alpha2_100.txt 
+ 1277  clear
+ 1278  ls
+ 1279  cd ../../
+ 1280  ls
+ 1281  cd ../Dropbox/manybody-research/chris/
+ 1282  cd ..
+ 1283  cd patrick/
+ 1284  ls
+ 1285  mkdir production2
+ 1286  ls
+ 1287  cd production2
+ 1288  ls
+ 1289  vim recover.c
+ 1290  cd ..
+ 1291  cd patrick/
+ 1292  ls
+ 1293  cd production2
+ 1294  vim recover.c
+ 1295  cp force.c forceError.c
+ 1296  vim forceError.c 
+ 1297  history
+ 1298  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1299  clear
+ 1300  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1301  vim force.c
+ 1302  vim forceError.c 
+ 1303  vim force.h
+ 1304  vim forceError.h
+ 1305  vim forceError.c 
+ 1306  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1307  :q
+ 1308  cd ../../chris/production/
+ 1309  ls
+ 1310  vim recover.c
+ 1311  cd ../../patrick/production2
+ 1312  ls
+ 1313  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1314  ls
+ 1315  vim vector.h
+ 1316  vim vector.c
+ 1317  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1318  ./run 50 1e-3 100 1 10 10 2 
+ 1319  :q
+ 1320  ./run 50 1e-3 100 1 10 10 2 | less
+ 1321  vim Force_Error.txt 
+ 1322  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1323  ./run 50 1e-3 100 1 10 10 2
+ 1324  vim Force_Error.txt 
+ 1325  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1326  ./run 50 1e-3 100 1 10 10 2
+ 1327  vim Force_Error.txt 
+ 1328  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1329  ./run 50 1e-3 100 1 10 10 2
+ 1330  vim Force_Error.txt 
+ 1331  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1332  ./run 50 1e-3 100 1 10 10 2
+ 1333  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1334  ./run 50 1e-3 100 1 10 10 2
+ 1335  vim Force_Error.txt 
+ 1336  sudo apt-get install gnuplot-x11
+ 1337  gnuplot
+ 1338  cd Downloads/
+ 1339  cd usr/bin/
+ 1340  ./skypeforlinux 
+ 1341  history
+ 1342  ./run 50 1e-3 100 1 1 1 2 
+ 1343  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1344  ./run 50 1e-3 100 1 1 1 2 
+ 1345  ./run 50 1e-3 100 1 1 1 2 | anim
+ 1346  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1347  ./run 50 1e-3 100 1 1 1 2 | anim
+ 1348  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1349  ./run 50 1e-3 100 1 1 1 2 | anim
+ 1350  ./run 50 1e-3 100 1 10 10 2 | anim
+ 1351  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1352  ./run 50 1e-3 100 1 10 10 2 | anim
+ 1353  ./run 50 1e-33e-4 1 10 10 2 | anim
+ 1354  ./run 50 3e-4 100 1 10 10 2 | anim
+ 1355  vim recover.c
+ 1356  vim wellSepCoM.c
+ 1357  vim re
+ 1358  vim recover.c
+ 1359  ls
+ 1360  clear
+ 1361  ks
+ 1362  ls
+ 1363  vim planet.h
+ 1364  vim recover.c
+ 1365  vim force.h
+ 1366  vim recover.c
+ 1367  ./skypeforlinux 
+ 1368  history
+ 1369  gnuplot
+ 1370  clear
+ 1371  history
+ 1372  gnuplot
+ 1373  ls
+ 1374  gnuplot
+ 1375  ls
+ 1376  cd ..
+ 1377  cd chris/
+ 1378  ls
+ 1379  cd production/
+ 1380  ls
+ 1381  cd ..
+ 1382  cd patrick/production2
+ 1383  ls
+ 1384  gnuplot
+ 1385  vim recover.c
+ 1386  history
+ 1387  cd ..
+ 1388  cd chris/production/
+ 1389  ls
+ 1390  vim recover.c
+ 1391  vim force.c
+ 1392  sudo apt-get install git python-appindicator python-xdg python-pexpect python-gconf python-gtk2 python-glade2 libxxf86vm1
+ 1393  ls
+ 1394  cd Public/
+ 1395  ls
+ 1396  cd ..
+ 1397  cd Templates/
+ 1398  ls
+ 1399  cd ..
+ 1400  cd /tmp
+ 1401  git clone "https://github.com/xflux-gui/xflux-gui.git"
+ 1402  ls
+ 1403  cd xflux-gui/
+ 1404  python download-xflux.py
+ 1405  sudo python setup.py install
+ 1406  fluxgui
+ 1407  cd ../copy
+ 1408  ls
+ 1409  vim resetregion.s
+ 1410  vim resetregion.c
+ 1411  cd ../../patrick/copy/
+ 1412  cd ../../chris/production/
+ 1413  vim recover.c
+ 1414  vim resetregion.
+ 1415  vim resetregion.c
+ 1416  cd ../../patrick/copy/
+ 1417  vim recover.c
+ 1418  vim force.
+ 1419  vim force.c
+ 1420  vim recover.c
+ 1421  vim fE_dt.txt 
+ 1422  vim recover.c
+ 1423  vim fE_dt.txt 
+ 1424  vim recover.c
+ 1425  vim fE_dt.txt 
+ 1426  vim recover.c
+ 1427  vim fE_dt.txt 
+ 1428  vim fE_dt_manual.txt 
+ 1429  cd ../../chris/production/
+ 1430  vim recover.c
+ 1431  cd ../../patrick/copy/
+ 1432  vim recover.c
+ 1433  vim fE_dt_manual.txt 
+ 1434  gnuplot
+ 1435  vim fE_dt_manual.txt 
+ 1436  gnuplot
+ 1437  ls
+ 1438  cd ..
+ 1439  mkdir copy2
+ 1440  cd copy2
+ 1441  cp ../copy/* .
+ 1442  history
+ 1443  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1444  vim recover.c
+ 1445  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1446  ./run 100 1 10 1 10 10 2
+ 1447  vim recover.c
+ 1448  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1449  ./run 100 1 10 1 10 10 2
+ 1450  vim recover.c
+ 1451  gnuplot
+ 1452  ls
+ 1453  vim recover.c
+ 1454  cd ../copy/
+ 1455  ls
+ 1456  vim recover.c
+ 1457  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c -lm -o run
+ 1458  vim resetregion..h
+ 1459  vim resetregion.h
+ 1460  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1461  ./run 100 1 10 1 10 10 2 | anim
+ 1462  ./run 100 1 10 1 10 10 2
+ 1463  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1464  ./run 100 1 10 1 10 10 2 | less
+ 1465  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1466  ./run 100 1 10 1 10 10 2 | less
+ 1467  ./run 100 1 10 1 10 10 2 
+ 1468  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1469  ./run 100 1 10 1 10 10 2 
+ 1470  vim fE_dt.txt 
+ 1471  ./run 100 1 10 1 10 10 2 
+ 1472  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1473  ./run 100 1 10 1 10 10 2 
+ 1474  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1475  ./run 100 1 10 1 10 10 2 
+ 1476  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1477  ./run 100 1 10 1 10 10 2 
+ 1478  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1479  ./run 100 1 10 1 10 10 2 > fE_dt.txt 
+ 1480  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1481  ./run 100 1 10 1 10 10 2 > fE_dt.txt 
+ 1482  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1483  ./run 100 1 10 1 10 10 2 > fE_dt.txt 
+ 1484  ./run 100 1 10 1 10 10 2
+ 1485  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1486  ./run 100 1 10 1 10 10 2
+ 1487  cd ../copy2
+ 1488  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1489  ./run 100 1 10 1 10 10 2
+ 1490  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1491  ./run 100 1 10 1 10 10 2 > fE_dt2.txt
+ 1492  vim fE_dt2.txt 
+ 1493  ./run 100 1 10 1 10 10 2 > fE_dt2.txt
+ 1494  vim fE_dt2.txt 
+ 1495  ./run 100 1 10 1 10 10 2 > fE_dt2.txt
+ 1496  vim fE_dt2.txt 
+ 1497  ./run 100 1 10 1 10 10 2
+ 1498  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1499  ./run 100 1 10 1 10 10 2
+ 1500  ./run 100 1 10 1 10 10 2 > fE_dt3.txt
+ 1501  vim fE_dt3.txt 
+ 1502  ./run 100 1 10 1 10 10 2 >> fE_dt3.txt
+ 1503  vim fE_dt3.txt 
+ 1504  ./run 100 1 10 1 10 10 2 
+ 1505  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1506  ./run 100 1 10 1 10 10 2 
+ 1507  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1508  ./run 100 1 10 1 10 10 2 
+ 1509  ./run 100 1 10 1 10 10 2 > fE_dt2.txt
+ 1510  vim fE_dt2.txt 
+ 1511  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1512  ./run 100 1 10 1 10 10 2 > fE_dt2.txt
+ 1513  vim fE_dt2.txt 
+ 1514  vim recover.c
+ 1515  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1516  ./run 100 1 10 1 10 10 2 > fE_dt2.txt
+ 1517  vim recover.c
+ 1518  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1519  ./run 100 1 10 1 10 10 2 > fE_dt2.txt
+ 1520  vim recover.c
+ 1521  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1522  ./run 100 1 10 1 10 10 2 > fE_dt3.txt
+ 1523  vim recover.c
+ 1524  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1525  ./run 100 1 10 1 10 10 2 > fE_dt3.txt
+ 1526  vim recover.c
+ 1527  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1528  vim recover.c
+ 1529  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1530  ./run 100 1 10 1 10 10 2 > fE_dt3.txt
+ 1531  vim recover.c
+ 1532  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1533  ./run 100 1 10 1 10 10 2 > fE_dt3.txt
+ 1534  vim recover.c
+ 1535  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1536  ./run 100 1 10 1 10 10 2 > fE_dt3.txt
+ 1537  vim recover.c
+ 1538  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1539  ./run 100 1 10 1 10 10 2 > fE_dt3.txt
+ 1540  vim recover.c
+ 1541  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1542  vim recover.c
+ 1543  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1544  ./run 100 1 10 1 10 10 2 > fE_dt3.txt
+ 1545  cd Dropbox/manybody-research/patrick/production2
+ 1546  cd ../copy
+ 1547  ls
+ 1548  cp resetregion.c ../production2
+ 1549  vim recover.c
+ 1550  cd ../production2
+ 1551  vim recover.c
+ 1552  clear
+ 1553  cd Dropbox/manybody-research/patrick/production2
+ 1554  ls
+ 1555  ./run 100 1 10 1 10 10 2 > fE_dt3.txt
+ 1556  ./run 100 1 10 1 10 10 2
+ 1557  vim recover.c
+ 1558  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1559  cd ../copy
+ 1560  vim recover.c
+ 1561  cd ../production2
+ 1562  clear
+ 1563  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1564  clear
+ 1565  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o run
+ 1566  cd ../../walter/
+ 1567  ls
+ 1568  clear
+ 1569  ls
+ 1570  cd ..
+ 1571  ls
+ 1572  make anim
+ 1573  cd walter/
+ 1574  ls
+ 1575  cd ..
+ 1576  ls
+ 1577  cd Dropbox/
+ 1578  ls
+ 1579  cd manybody-research/patrick/
+ 1580  ls
+ 1581  cd production2
+ 1582  ls
+ 1583  vim recover.c
+ 1584  cd Documents/
+ 1585  ls
+ 1586  mkdir MAT532
+ 1587  cd MAT532/
+ 1588  vim determinant.c
+ 1589  gcc determinant.c -o -lm det
+ 1590  gcc determinant.c -o det -lm
+ 1591  vim determinant.c
+ 1592  gcc determinant.c -o det -lm
+ 1593  clear
+ 1594  gcc determinant.c -o det -lm
+ 1595  vim determinant.c
+ 1596  gcc determinant.c -o det -lm
+ 1597  vim determinant.c
+ 1598  gcc determinant.c -o det -lm
+ 1599  vim determinant.c
+ 1600  gcc determinant.c -o det -lm
+ 1601  clear
+ 1602  gcc determinant.c -o det -lm
+ 1603  vim determinant.c
+ 1604  gcc determinant.c -o det -lm
+ 1605  vim determinant.c
+ 1606  gcc determinant.c -o det -lm
+ 1607  vim determinant.c
+ 1608  gcc determinant.c -o det -lm
+ 1609  vim determinant.c
+ 1610  lcear
+ 1611  clear
+ 1612  gcc determinant.c -o det -lm
+ 1613  ls
+ 1614  vim determinant.c
+ 1615  clear
+ 1616  gcc determinant.c -o det -lm
+ 1617  vim determinant.c
+ 1618  gcc determinant.c -o det -lm
+ 1619  vim determinant.c
+ 1620  gcc determinant.c -o det -lm
+ 1621  vim determinant.c
+ 1622  gcc determinant.c -o det -lm
+ 1623  vim determinant.c
+ 1624  gcc determinant.c -o det -lm
+ 1625  vim determinant.c
+ 1626  gcc determinant.c -o det -lm
+ 1627  vim determinant.c
+ 1628  gcc determinant.c -o det -lm
+ 1629  vim determinant.c
+ 1630  gcc determinant.c -o det -lm
+ 1631  ./det 
+ 1632  vim determinant.c
+ 1633  gcc determinant.c -o det -lm
+ 1634  :q
+ 1635  vim determinant.c
+ 1636  gcc determinant.c -o det -lm
+ 1637  clear
+ 1638  gcc determinant.c -o det -lm
+ 1639  vim determinant.c
+ 1640  gcc determinant.c -o det -lm
+ 1641  ./det 
+ 1642  vim determinant.c 
+ 1643  gcc determinant.c -o det -lm
+ 1644  ./det 
+ 1645  vim determinant.c 
+ 1646  gcc determinant.c -o det -lm
+ 1647  vim determinant.c 
+ 1648  gcc determinant.c -o det -lm
+ 1649  ./det 
+ 1650  vim determinant.c 
+ 1651  ./det 
+ 1652  vim determinant.c 
+ 1653  gcc determinant.c -o det -lm
+ 1654  ./det 
+ 1655  vim determinant.c 
+ 1656  gcc determinant.c -o det -lm
+ 1657  vim determinant.c 
+ 1658  gcc determinant.c -o det -lm
+ 1659  vim determinant.c 
+ 1660  gcc determinant.c -o det -lm
+ 1661  ./det
+ 1662  vim determinant.c 
+ 1663  gcc determinant.c -o det -lm
+ 1664  vim determinant.c 
+ 1665  gcc determinant.c -o det -lm
+ 1666  vim determinant.c 
+ 1667  gcc determinant.c -o det -lm
+ 1668  ./det
+ 1669  vim determinant.c 
+ 1670  gcc determinant.c -o det -lm
+ 1671  vim determinant.c 
+ 1672  clear
+ 1673  gcc determinant.c -o det -lm
+ 1674  vim determinant.c 
+ 1675  gcc determinant.c -o det -lm
+ 1676  vim determinant.c 
+ 1677  gcc determinant.c -o det -lm
+ 1678  ./det
+ 1679  vim determinant.c 
+ 1680  gcc determinant.c -o det -lm
+ 1681  ./det
+ 1682  vim determinant.c 
+ 1683  gcc determinant.c -o det -lm
+ 1684  vim determinant.c 
+ 1685  clear
+ 1686  gcc determinant.c -o det -lm
+ 1687  vim determinant.c 
+ 1688  gcc determinant.c -o det -lm
+ 1689  vim determinant.c 
+ 1690  gcc determinant.c -o det -lm
+ 1691  ./det
+ 1692  vim determinant.c 
+ 1693  clear
+ 1694  gcc determinant.c -o det -lm
+ 1695  ./det
+ 1696  vim determinant.c 
+ 1697  gcc determinant.c -o det -lm
+ 1698  ./det
+ 1699  clear
+ 1700  ./det
+ 1701  vim determinant.c 
+ 1702  clear
+ 1703  vim determinant.c 
+ 1704  gcc determinant.c -o det -lm
+ 1705  ./det
+ 1706  vim determinant.c 
+ 1707  gcc determinant.c -o det -lm
+ 1708  ./det
+ 1709  vim determinant.c 
+ 1710  gcc determinant.c -o det -lm
+ 1711  ./det
+ 1712  vim determinant.c 
+ 1713  gcc determinant.c -o det -lm
+ 1714  ./det
+ 1715  vim determinant.c 
+ 1716  gcc determinant.c -o det -lm
+ 1717  vim determinant.c 
+ 1718  gcc determinant.c -o det -lm
+ 1719  ./det
+ 1720  vim determinant.c 
+ 1721  gcc determinant.c -o det -lm
+ 1722  clear
+ 1723  ./det
+ 1724  gcc determinant.c -o det -lm
+ 1725  ./det
+ 1726  gcc determinant.c -o det -lm
+ 1727  ./det
+ 1728  clear
+ 1729  gcc determinant.c -o det -lm
+ 1730  ./det
+ 1731  gcc determinant.c -o det -lm
+ 1732  clear
+ 1733  ./det
+ 1734  gcc determinant.c -o det -lm
+ 1735  ./det
+ 1736  clear
+ 1737  ./det
+ 1738  gcc determinant.c -o det -lm
+ 1739  ./det
+ 1740  clear
+ 1741  ./det
+ 1742  cd Documents/
+ 1743  ls
+ 1744  cd MAT532/
+ 1745  vim determinant.c 
+ 1746  cd ..
+ 1747  cd ../Dropbox/
+ 1748  ls
+ 1749  cd manybody-research/
+ 1750  ls
+ 1751  cd patrick/
+ 1752  ls
+ 1753  mkdir OpenMP
+ 1754  cd OpenMP/
+ 1755  vim parallelTable.c
+ 1756  gcc parallelTable.c -o parTable -lm -fopenmp
+ 1757  vim parallelTable.c
+ 1758  gcc parallelTable.c -o parTable -lm -fopenmp
+ 1759  g++ mv parallelTable.c parTab.cpp
+ 1760  ls
+ 1761  g++ parTab.cpp -fopenmp
+ 1762  time ./
+ 1763  g++ parTab.cpp -fopenmp -o parTab
+ 1764  ls
+ 1765  rm a.out 
+ 1766  ls
+ 1767  time ./parTab 
+ 1768  cp parTab.cpp slowTab.cpp
+ 1769  vim slowTab.cpp 
+ 1770  g++ slowTab.cpp -fopenmp -o slowTab
+ 1771  ls
+ 1772  clear
+ 1773  ls
+ 1774  time ./slowTab 
+ 1775  time ./parTab 
+ 1776  vim parTab.cpp 
+ 1777  g++ parTab.cpp -fopenmp -o parTab
+ 1778  vim parTab.cpp 
+ 1779  g++ parTab.cpp -fopenmp -o parTab
+ 1780  clear
+ 1781  g++ parTab.cpp -fopenmp -o parTab
+ 1782  vim parTab.cpp 
+ 1783  g++ parTab.cpp -fopenmp -o parTab
+ 1784  vim parTab.cpp 
+ 1785  g++ parTab.cpp -fopenmp -o parTab
+ 1786  time ./parTab e5
+ 1787  time ./parTab 1e5
+ 1788  time ./parTab 1e-5
+ 1789  time ./parTab 100000
+ 1790  time ./parTab 10000000
+ 1791  vim parTab.cpp 
+ 1792  g++ parTab.cpp -fopenmp -o parTab
+ 1793  time ./parTab 10000000
+ 1794  time ./parTab 1000000
+ 1795  cp parTab.cpp slowTab.cpp 
+ 1796  vim slowTab.cpp 
+ 1797  g++ parTab.cpp -fopenmp -o parTab
+ 1798  time ./slowTab 1000000
+ 1799  vim slowTab.cpp 
+ 1800  time ./slowTab 1000000
+ 1801  g++ slowTab.cpp -fopenmp -o slowTab
+ 1802  time ./slowTab 1000000
+ 1803  vim parTab.cpp 
+ 1804  g++ parTab.cpp -fopenmp -o parTab
+ 1805  time ./parTab 1000000
+ 1806  vim parTab.cpp 
+ 1807  g++ parTab.cpp -fopenmp -o parTab
+ 1808  time ./parTab 1000000
+ 1809  vim parTab.cpp 
+ 1810  g++ parTab.cpp -fopenmp -o parTab
+ 1811  time ./parTab 1000000 4
+ 1812  time ./parTab 1000000 2
+ 1813  vim parTab.cpp 
+ 1814  g++ parTab.cpp -fopenmp -o parTab
+ 1815  time ./parTab 1000000 2
+ 1816  time ./parTab 1000000 4
+ 1817  time ./parTab 1000000 3
+ 1818  time ./parTab 1000000 1
+ 1819  time ./parTab 1000000 4
+ 1820  cd Dropbox/manybody-research/patrick/
+ 1821  ls
+ 1822  cd production2
+ 1823  ls
+ 1824  vim recover.c
+ 1825  ls
+ 1826  cd ../production2
+ 1827  rm a.out
+ 1828  rm ayayron
+ 1829  rm bruteForce.txt 
+ 1830  rm chi_min3var 
+ 1831  rm CHRIS 
+ 1832  rm chrisIsCool 
+ 1833  rm data.txt 
+ 1834  rm debug 
+ 1835  rm E_vs_t_alpha2_900.txt 
+ 1836  rm E_vs_t_alpha2_900_c.txt 
+ 1837  rm exam 
+ 1838  rm fE_dt3.txt 
+ 1839  rm fitData.txt 
+ 1840  rm Force_Error.txt 
+ 1841  rm FUNCTION
+ 1842  rm mine
+ 1843  rm P_vs_t_alpha2_900*
+ 1844  rm run 
+ 1845  rm tempgnuplot.txt 
+ 1846  rm te*
+ 1847  rm tt
+ 1848  clear
+ 1849  rm (
+ 1850  rm chrisIScool\ \(Case\ Conflict\) 
+ 1851  clear
+ 1852  ls
+ 1853  clear
+ 1854  vim force.c~
+ 1855  vim recover.c
+ 1856  :q
+ 1857  gcc recover.c vector.h planet.h pln.h region.h forceError.h populateRegions.h planetListFunctions.h parentChild.h omelyan.h -o new -lm
+ 1858  clear
+ 1859  ls
+ 1860  vim recover.c
+ 1861  gcc recover.c vector.h planet.h pln.h region.h forceError.h populateRegions.h planetListFunctions.h parentChild.h omelyan.h -o ringTest -lm
+ 1862  clear
+ 1863  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1864  vim planet.h
+ 1865  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1866  clear
+ 1867  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1868  clear
+ 1869  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1870  clear
+ 1871  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1872  clear
+ 1873  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1874  vim planet.h
+ 1875  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1876  clear
+ 1877  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1878  vim recover.c
+ 1879  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1880  clear
+ 1881  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1882  vim planet.h
+ 1883  vim recover.c
+ 1884  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1885  vim recover.c
+ 1886  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1887  vim recover.c
+ 1888  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1889  vim recover.c
+ 1890  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1891  vim recover.c
+ 1892  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1893  vim recover.c
+ 1894  clear
+ 1895  vim recover.c
+ 1896  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1897  ./ringTest 10 1e-4 1 1 1 1 1
+ 1898  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1899  ./ringTest 10 1e-4 1 1 1 1 1
+ 1900  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1901  ./ringTest 10 1e-4 1 1 1 1 1
+ 1902  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1903  ./ringTest 10 1e-4 1 1 1 1 1
+ 1904  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1905  ./ringTest 10 1e-4 1 1 1 1 1
+ 1906  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1907  ./ringTest 10 1e-4 1 1 1 1 1
+ 1908  ./ringTest 11 1e-4 1 1 1 1 1
+ 1909  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1910  ./ringTest 10 1e-4 1 1 1 1 1
+ 1911  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1912  ./ringTest 10 1e-4 1 1 1 1 1
+ 1913  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1914  ./ringTest 10 1e-4 1 1 1 1 1
+ 1915  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1916  ./ringTest 10 1e-4 1 1 1 1 1
+ 1917  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1918  ./ringTest 10 1e-4 1 1 1 1 1
+ 1919  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1920  ./ringTest 10 1e-4 1 1 1 1 1
+ 1921  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1922  ./ringTest 10 1e-4 1 1 1 1 1
+ 1923  vim recover.c
+ 1924  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1925  vim recover.c
+ 1926  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1927  ./ringTest 10 1e-4 1 1 1 1 1
+ 1928  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1929  ./ringTest 10 1e-4 1 1 1 1 1
+ 1930  ./ringTest 10 1e-4 1 1 1 1 1 | anim
+ 1931  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1932  ./ringTest 10 1e-4 1 1 1 1 1 | anim
+ 1933  ./ringTest 10 1e-5 1 1 1 1 1 | anim
+ 1934  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1935  ./ringTest 10 1e-5 1 1 1 1 1 | anim
+ 1936  ./ringTest 10 1e-5 10 1 1 1 1 | anim
+ 1937  ./ringTest 3 1e-5 10 1 1 1 1 | anim
+ 1938  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1939  ./ringTest 3 1e-5 10 1 1 1 1 | anim
+ 1940  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1941  ./ringTest 3 1e-5 10 1 1 1 1 | anim
+ 1942  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1943  ./ringTest 3 1e-5 10 1 1 1 1 | anim
+ 1944  ./ringTest 3 1e-4 10 1 1 1 1 | anim
+ 1945  ./ringTest 1000 1e-4 10 1 1 1 1 | anim
+ 1946  ./ringTest 1000 1e-4 1 1 1 1 1 | anim
+ 1947  ./ringTest 5000 1e-3 1 1 1 1 1 | anim
+ 1948  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1949  ./ringTest 5000 1e-3 1 1 1 1 1 | anim
+ 1950  ./ringTest 2000 1e-3 1 1 1 1 1 | anim
+ 1951  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1952  ./ringTest 2000 1e-3 1 1 1 1 1 | anim
+ 1953  ./ringTest 200 1e-3 1 1 1 1 1 | anim
+ 1954  ./ringTest 200 1e-5 1 1 1 1 1 | anim
+ 1955  ./ringTest 200 1e-6 1 1 1 1 1 | anim
+ 1956  ./ringTest 2 1e-6 1 1 1 1 1 | anim
+ 1957  vim forceError.c
+ 1958  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1959  ./ringTest 2 1e-6 1 1 1 1 1 | anim
+ 1960  ./ringTest 10 1e-6 1 1 1 1 1 | anim
+ 1961  ./ringTest 100 1e-6 1 1 1 1 1 | anim
+ 1962  vim forceError.c
+ 1963  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1964  ./ringTest 100 1e-6 1 1 1 1 1 | anim
+ 1965  vim forceError.c
+ 1966  vim planet.h
+ 1967  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1968  ./ringTest 100 1e-6 1 1 1 1 1 | anim
+ 1969  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1970  ./ringTest 100 1e-6 1 1 1 1 1 | anim
+ 1971  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1972  ./ringTest 100 1e-6 1 1 1 1 1 | anim
+ 1973  ./ringTest 500 1e-6 1 1 1 1 1 | anim
+ 1974  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1975  ./ringTest 100 1e-6 1 1 1 1 1 | anim
+ 1976  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1977  ./ringTest 100 1e-6 1 1 1 1 1 | anim
+ 1978  ./ringTest 10 1e-6 1 1 1 1 1 | anim
+ 1979  ./ringTest 20 1e-6 1 1 1 1 1 | anim
+ 1980  cd Dropbox/manybody-research/patrick/production2
+ 1981  ls
+ 1982  clear
+ 1983  ./ringTest 20 1e-6 1 1 1 1 1 | anim
+ 1984  ./ringTest 16 1e-6 1 1 1 1 1 | anim
+ 1985  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1986  ./ringTest 16 1e-6 1 1 1 1 1 | anim
+ 1987  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1988  ./ringTest 1000 1e-6 1 1 1 1 1 | anim
+ 1989  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1990  ./ringTest 1000 1e-6 1 1 1 1 1 | anim
+ 1991  ./ringTest 1000 1e-5 1 1 1 1 1 | anim
+ 1992  ./ringTest 1000 1e-4 1 1 1 1 1 | anim
+ 1993  ./ringTest 200 1e-4 1 1 1 1 1 | anim
+ 1994  cd Dropbox/manybody-research/patrick/production2
+ 1995  ./ringTest 200 1e-4 1 1 1 1 1 | anim
+ 1996  ./ringTest 200 1e-5 1 1 1 1 1 | anim
+ 1997  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 1998  ./ringTest 200 1e-5 1 1 1 1 1 | anim
+ 1999  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2000  ./ringTest 200 1e-5 1 1 1 1 1 | anim
+ 2001  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2002  ./ringTest 200 1e-5 1 1 1 1 1 | anim
+ 2003  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2004  ./ringTest 200 1e-5 1 1 1 1 1 | anim
+ 2005  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2006  ./ringTest 200 1e-5 1 1 1 1 1 | anim
+ 2007  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2008  ./ringTest 200 1e-5 1 1 1 1 1 | anim
+ 2009  ./ringTest 10 1e-5 1 1 1 1 1 | anim
+ 2010  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2011  ./ringTest 10 1e-5 1 1 1 1 1 | anim
+ 2012  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2013  ./ringTest 10 1e-5 1 1 1 1 1 | anim
+ 2014  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2015  ./ringTest 10 1e-5 1 1 1 1 1 | anim
+ 2016  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2017  ./ringTest 10 1e-5 1 1 1 1 1 | anim
+ 2018  ./ringTest 100 1e-5 1 1 1 1 1 | anim
+ 2019  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2020  ./ringTest 100 1e-5 1 1 1 1 1 | anim
+ 2021  ./ringTest 100 1e-5 20 1 1 1 1 | anim
+ 2022  ./ringTest 100 1e-4 10 1 1 1 1 | anim
+ 2023  ./ringTest 300 1e-4 1 1 1 1 1 | anim
+ 2024  ./ringTest 500 1e-4 1 1 1 1 1 | anim
+ 2025  ./ringTest 500 3e-3 1 1 1 1 1 | anim
+ 2026  ./ringTest 500 2e-4 1 1 1 1 1 | anim
+ 2027  ./ringTest 1000 5e-3 1 1 1 1 1 | anim
+ 2028  ./ringTest 5000 5e-3 1 1 1 1 1 | anim
+ 2029  ./ringTest 500 5e-3 1 1 1 1 1 | anim
+ 2030  ./ringTest 500 1e-3 1 1 1 1 1 | anim
+ 2031  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2032  ./ringTest 500 1e-3 1 1 1 1 1 | anim
+ 2033  ./ringTest 500 5e-2 1 1 1 1 1 | anim
+ 2034  ./ringTest 100 5e-2 1 1 1 1 1 | anim
+ 2035  ./ringTest 100 1e-3 1 1 1 1 1 | anim
+ 2036  ./ringTest 1000 1e-3 1 1 1 1 1 | anim
+ 2037  ./ringTest 10000 1e-3 1 1 1 1 1 > ring10ke3.txt
+ 2038  anim ring10ke3.txt 
+ 2039  less ring10ke3.txt 
+ 2040  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2041  ./ringTest 10000 1e-3 1 1 1 1 1 > ring10ke3.txt
+ 2042  less ring10ke3.txt 
+ 2043  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2044  ./ringTest 10000 1e-3 1 1 1 1 1 > ring10ke3.txt
+ 2045  less ring10ke3.txt 
+ 2046  ./ringTest 10000 1e-3 1 1 1 1 1 | anim
+ 2047  ./ringTest 100 1e-3 1 1 1 1 1 | anim
+ 2048  ./ringTest 1000 1e-4 1 1 1 1 1 | anim
+ 2049  ./ringTest 10000 1e-4 1 1 1 1 1 > ring10ke3.txt 
+ 2050  anim ring10ke3.txt 
+ 2051  less ring10ke3.txt 
+ 2052  anim ring10ke3.txt 
+ 2053  ./ringTest 1000 1e-4 1 1 1 1 1 | anim
+ 2054  ./ringTest 500 5e-3 1 1 1 1 1 | anim
+ 2055  ./ringTest 500 1e- 1 1 1 1 1 | anim
+ 2056  ./ringTest 500 1e-4 1 1 1 1 1 | anim
+ 2057  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2058  ./ringTest 500 1e-4 1 1 1 1 1 | anim
+ 2059  ls
+ 2060  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2061  ./ringTest 500 1e-4 1 1 1 1 1 | anim
+ 2062  ls
+ 2063  plot mom_vs_t_500_1e4.txt 
+ 2064  clear
+ 2065  ls
+ 2066  less mom_vs_t_500_1e4.txt 
+ 2067  plot mom_vs_t_500_1e4.txt 
+ 2068  clear
+ 2069  vim mom_vs_t_500_1e4.txt 
+ 2070  plot mom_vs_t_500_1e4.txt 
+ 2071  vim mom_vs_t_500_1e4.txt 
+ 2072  plot mom_vs_t_500_1e4.txt 
+ 2073  gnuplot
+ 2074  ./ringTest 500 1e-4 1 1 1 1 1 | anim
+ 2075  gnuplot
+ 2076  g++ recover.c force.c getArrayIndex.c intVec.c planetListFunctions.c populateRegions.c wellSepCoM.c vector.c parentChild.c omelyan.c resetregion.c -lm -o ringTest
+ 2077  ./ringTest 500 1e-4 1 1 1 1 1
+ 2078  gnuplot
+ 2079  less nCol_vs_t.txt 
+ 2080  ./ringTest 500 1e-4 1 1 1 1 1 | anim
+ 2081  gnuplot
+ 2082  ./ringTest 500 1e-4 1 1 1 1 1 | anim
+ 2083  history
+ 2084  ./ringTest 2000 5e-5 1 1 1 1 1> ring_2k_5e5.txt
+ 2085  ./ringTest 2000 5e-5 1 1 1 1 1
+ 2086  ./ringTest 2000 5e-5 1 1 1 1 1| anim
+ 2087  ./ringTest 2000 5e-5 1 1 1 1 1> ring_2k_5e5.txt 
+ 2088  vim ring_2k_5e5.txt 
+ 2089  ./ringTest 2000 5e-5 1 1 1 1 
+ 2090  ./ringTest 2000 5e-5 1 1 1 1 1
+ 2091  ./ringTest 2000 5e-5 1 1 1 1 1> ring_2k_5e5.txt 
+ 2092  ./ringTest 2000 5e-5 1 1 1 1 11 > ring_2k_5e5.txt 
+ 2093  vim ring_2k_5e5.txt 
+ 2094  ./ringTest 2000 5e-5 1 1 1 1 1 > ring_2k_5e5.txt 
+ 2095  anim ring_2k_5e5.txt 
+ 2096  ./ringTest 50 5e-5 1 1 1 1 1 > ring_50_5e5.txt 
+ 2097  less ring_50_5e5.txt 
+ 2098  vim ring_50_5e5.txt 
+ 2099  anim ring_50_5e5.txt 
+ 2100  vim ring_50_5e5.txt 
+ 2101  anim ring_50_5e5.txt 
+ 2102  ./ringTest 50 5e-5 1 1 1 1 1 | anim
+ 2103  vim ring_50_5e5.txt 
+ 2104  anim < ring_50_5e5.txt 
+ 2105  anim < ring_2k_5e5.txt 
+ 2106  anim < ring10ke3.txt 
+ 2107  history
+ 2108  history 2049
+ 2109  history > 2049
+ 2110  ./ringTest 10000 5e-5 1 1 1 1 1 > ring_10k_5e5.txt
+ 2111  anim < ring_10k_5e5.txt 
+ 2112  ls
+ 2113  gnuplot
+ 2114  history
+ 2115  history > history_doc.tt
+ 2116  history > history_doc.txt
